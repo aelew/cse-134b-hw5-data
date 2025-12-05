@@ -5,8 +5,8 @@
       "description": "Online dictionary curated for developers",
       "url": "https://devterms.com",
       "cover": {
-        "base": "/media/projects/devterms.jpg",
-        "lg": "/media/projects/devterms-lg.jpg"
+        "base": "https://cse-134b-hw5.vercel.app/media/projects/devterms.jpg",
+        "lg": "https://cse-134b-hw5.vercel.app/media/projects/devterms-lg.jpg"
       }
     },
     {
@@ -14,8 +14,8 @@
       "description": "Social media downloader extension for Raycast",
       "url": "https://www.raycast.com/aelew/cobalt",
       "cover": {
-        "base": "/media/projects/raycast-cobalt.jpg",
-        "lg": "/media/projects/raycast-cobalt-lg.jpg"
+        "base": "https://cse-134b-hw5.vercel.app/media/projects/raycast-cobalt.jpg",
+        "lg": "https://cse-134b-hw5.vercel.app/media/projects/raycast-cobalt-lg.jpg"
       }
     },
     {
@@ -23,8 +23,8 @@
       "description": "Cross-platform email client",
       "url": "https://mailery.app",
       "cover": {
-        "base": "/media/projects/mailery.jpg",
-        "lg": "/media/projects/mailery-lg.jpg"
+        "base": "https://cse-134b-hw5.vercel.app/media/projects/mailery.jpg",
+        "lg": "https://cse-134b-hw5.vercel.app/media/projects/mailery-lg.jpg"
       }
     },
     {
@@ -32,8 +32,8 @@
       "description": "Job listing and monitoring bot",
       "url": "https://github.com/aelew/tech-internship-alerts",
       "cover": {
-        "base": "/media/projects/tech-internship-alerts.jpg",
-        "lg": "/media/projects/tech-internship-alerts-lg.jpg"
+        "base": "https://cse-134b-hw5.vercel.app/media/projects/tech-internship-alerts.jpg",
+        "lg": "https://cse-134b-hw5.vercel.app/media/projects/tech-internship-alerts-lg.jpg"
       }
     }
   ]
