@@ -3,26 +3,38 @@
     {
       "name": "DevTerms",
       "description": "Online dictionary curated for developers",
-      "cover": "/media/projects/devterms.jpg",
-      "url": "https://devterms.com"
+      "url": "https://devterms.com",
+      "cover": {
+        "base": "/media/projects/devterms.jpg",
+        "lg": "/media/projects/devterms-lg.jpg"
+      }
     },
     {
       "name": "Cobalt",
       "description": "Social media downloader extension for Raycast",
-      "cover": "/media/projects/raycast-cobalt.jpg",
-      "url": "https://www.raycast.com/aelew/cobalt"
+      "url": "https://www.raycast.com/aelew/cobalt",
+      "cover": {
+        "base": "/media/projects/raycast-cobalt.jpg",
+        "lg": "/media/projects/raycast-cobalt-lg.jpg"
+      }
     },
     {
       "name": "Mailery",
       "description": "Cross-platform email client",
-      "cover": "/media/projects/mailery.jpg",
-      "url": "https://mailery.app"
+      "url": "https://mailery.app",
+      "cover": {
+        "base": "/media/projects/mailery.jpg",
+        "lg": "/media/projects/mailery-lg.jpg"
+      }
     },
     {
       "name": "Tech Internship Alerts",
       "description": "Job listing and monitoring bot",
-      "cover": "/media/projects/tech-internship-alerts.jpg",
-      "url": "https://github.com/aelew/tech-internship-alerts"
+      "url": "https://github.com/aelew/tech-internship-alerts",
+      "cover": {
+        "base": "/media/projects/tech-internship-alerts.jpg",
+        "lg": "/media/projects/tech-internship-alerts-lg.jpg"
+      }
     }
   ]
 }
