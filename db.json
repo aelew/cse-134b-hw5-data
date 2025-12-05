@@ -1,0 +1,10 @@
+{
+  "projects": [
+    {
+      "name": "DevTerms",
+      "description": "Online dictionary curated for developers",
+      "cover": "/media/projects/devterms.jpg",
+      "url": "https://devterms.com"
+    }
+  ]
+}
