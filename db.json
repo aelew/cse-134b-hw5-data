@@ -5,6 +5,24 @@
       "description": "Online dictionary curated for developers",
       "cover": "/media/projects/devterms.jpg",
       "url": "https://devterms.com"
+    },
+    {
+      "name": "Cobalt",
+      "description": "Social media downloader extension for Raycast",
+      "cover": "/media/projects/raycast-cobalt.jpg",
+      "url": "https://www.raycast.com/aelew/cobalt"
+    },
+    {
+      "name": "Mailery",
+      "description": "Cross-platform email client",
+      "cover": "/media/projects/mailery.jpg",
+      "url": "https://mailery.app"
+    },
+    {
+      "name": "Tech Internship Alerts",
+      "description": "Job listing and monitoring bot",
+      "cover": "/media/projects/tech-internship-alerts.jpg",
+      "url": "https://github.com/aelew/tech-internship-alerts"
     }
   ]
 }
