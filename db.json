@@ -1,7 +1,7 @@
 {
   "projects": [
     {
-      "id": 1,
+      "id": 0,
       "name": "DevTerms",
       "description": "Online dictionary curated for developers",
       "url": "https://devterms.com",
@@ -11,7 +11,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 1,
       "name": "Cobalt",
       "description": "Social media downloader extension for Raycast",
       "url": "https://www.raycast.com/aelew/cobalt",
@@ -21,7 +21,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 2,
       "name": "Mailery",
       "description": "Cross-platform email client",
       "url": "https://mailery.app",
@@ -31,7 +31,7 @@
       }
     },
     {
-      "id": 4,
+      "id": 3,
       "name": "Tech Internship Alerts",
       "description": "Job listing and monitoring bot",
       "url": "https://github.com/aelew/tech-internship-alerts",
